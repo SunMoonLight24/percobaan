@@ -1,6 +1,7 @@
 hello
-welcome
-home
 sate
 soto
 rujak
+jeruk
+apel
+nanas
